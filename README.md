@@ -1,2 +1,0 @@
-# spi-project
-some text
